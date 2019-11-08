@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573252153623.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BA498A02",
+    "lastKnownWriteTime" : 1573252644,
+    "last_content_update" : 1573252644,
+    "path" : "~/documents/r_packages/sussex/man/install.sussex.Rd",
+    "project_path" : "man/install.sussex.Rd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

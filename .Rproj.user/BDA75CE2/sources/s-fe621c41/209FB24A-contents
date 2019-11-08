@@ -1,0 +1,11 @@
+Package: sussex
+Type: Package
+Title: Install Packages at Sussex Uni
+Version: 1.0.0
+Authors@R: person(given = "Lincoln", family = "Colling", email = "Lincoln@Colling.net.nz", role = c("aut","cre"))
+Description: This package contains functions for install GitHub packages 
+    at the University of Sussex. 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
